@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 👂 `My name is`: **Javier Regnault**,
 * ⚡ `I'm`: **20 years old**,
-* 🌱 `I’m currently learning`: **Laravel**,
+* 🌱 `I’m currently learning`: **Django**,
 * ❤️ `I love`: **Doritos & Monsters**  ,
 * 💻 `Favorite lang`: **Java & PHP**  
 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <a href=""><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href+""><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href+""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  
 </p>
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
@@ -48,6 +50,9 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"></a>
+
+
 </p>
 
 <h4 align="center">⚙ Software</h4>
