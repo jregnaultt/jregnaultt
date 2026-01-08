@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 * 👂 `My name is`: **Javier Regnault**,
-* ⚡ `I'm`: **20 years old**,
+* ⚡ `I'm`: **21 years old**,
 * 🌱 `I’m currently learning`: **Django**,
 * ❤️ `I love`: **Doritos & Monsters**  ,
 * 💻 `Favorite lang`: **Java & PHP**  
